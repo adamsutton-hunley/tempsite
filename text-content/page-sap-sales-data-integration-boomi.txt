@@ -1,0 +1,21 @@
+SAP Sales Data Integration via Boomi
+A complex integration using Boomi to streamline global sales data management for a company with operations in five countries.
+
+Key Achievements:
+
+Integrated Five SAP HANA Instances: Connected SAP HANA databases in five countries to two Salesforce environments using the Boomi integration platform. 
+
+Synchronized Sales Data Nightly: Automated nightly data transfer of account, invoice, order, and product information from all SAP instances into Salesforce.
+
+Improved Data Visibility & Reporting: Enhanced data accessibility within Salesforce, enabling generation of comprehensive sales reports across all regions.
+
+Collaboration & Design: Collaborated with colleagues on the design and implementation of the Boomi integration, ensuring alignment with business requirements.
+
+Year
+2024
+
+Technologies
+Boomi Integration Platform
+SAP HANA
+Salesforce CRM
+Javascript

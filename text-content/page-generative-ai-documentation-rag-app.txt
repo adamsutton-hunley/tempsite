@@ -1,0 +1,30 @@
+RAG Web 
+Application
+See code on Github
+
+A sophisticated web application leveraging Retrieval-Augmented Generation (RAG) to enhance user exploration of technical documentation knowledge bases.
+
+Key Achievements:
+
+Advanced LLM Integration: Implemented cutting-edge language models for query refinement (subquery generation), cross-encoder scoring for document relevance ranking, and ultimately, contextually informed answer generation.
+
+Chroma Vector Database: Utilized ChromaDB as a high-performance vector database to store and retrieve document embeddings, enabling efficient semantic search within the knowledge base.
+
+PDF Ingestion Pipeline: Designed a robust process to ingest and preprocess technical documentation in PDF format, transforming unstructured data into valuable insights.
+
+Full-Stack Development Expertise: Developed the entire application stack, using React for the frontend, Flask for the backend, PostgreSQL for logging, and Docker for seamless containerization.
+
+Customizable Logging: Built a Python-based logger to capture errors and user interactions, providing valuable data for analysis and improvement.
+
+Year
+2024
+
+Technologies
+ChromaDB
+Google Gemini
+Python
+Flask 
+Javascript
+React 
+PostgreSQL
+Docker

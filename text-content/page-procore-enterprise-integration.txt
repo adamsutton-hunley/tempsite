@@ -1,0 +1,22 @@
+Procore
+Enterprise Integration 
+Developed a solution for seamless, one-way data synchronization between a central customer relationship management (CRM) system and multiple construction project management platforms. This initiative aimed to automate critical business processes and ensure data consistency across operational divisions.
+
+Key Achievements:
+
+Event-driven data pipeline: Automated ingestion of project and client data on specific status changes in near real-time. 
+
+Automated project initialization: significantly reduced manual effort and improved data fidelity across platforms by automating project initialization and resource allocation.
+
+Dynamic routing logic: Implemented conditional data flow mechanisms to ensure appropriate data delivery based on specific business criteria.
+
+System resilience: Designed and deployed comprehensive error management, retry mechanisms, and detailed logging for high availability and rapid troubleshooting.
+
+Year
+2025
+
+Technologies
+MuleSoft Anypoint Platform
+DataWeave Transformation Language
+Enterprise Integration Patterns
+Procore REST API

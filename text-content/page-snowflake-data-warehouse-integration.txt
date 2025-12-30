@@ -1,0 +1,24 @@
+Snowflake Data
+Warehouse Integration
+Developed a robust data integration pipeline to automate the nightly transfer of critical accounting and project data from a Snowflake data warehouse to a customer relationship management (CRM) system.
+
+Key Achievements:
+
+Seamless Data Extraction: Implemented a scheduled job to efficiently extract account and project data from Snowflake using the platform's REST API, ensuring accurate and up-to-date information transfer.
+
+Scalable Job Chaining: Designed a system of queueable jobs to handle large datasets, allowing for efficient processing and seamless integration with the target CRM system.
+
+Configurable Logging: Built a customizable logging mechanism to track the success and errors of each record transfer, providing detailed insights into the pipeline's performance.
+
+Automated Reporting: Implemented an email-based reporting feature that delivers a comprehensive CSV report to stakeholders, summarizing the results of each nightly data transfer.
+
+Year
+2024
+
+Technologies
+SQL
+REST APIs
+Job Scheduling
+Data Pipelines
+Custom Logging
+Automated Reporting

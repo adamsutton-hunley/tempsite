@@ -1,0 +1,44 @@
+Procore<br>Enterprise Integration
+Developed a solution for seamless, one-way data synchronization between a central customer relationship management (CRM) system and multiple construction project management platforms. <br>
+
+-----------------------------------------------------------------
+
+JD Edwards <br>Enterprise <br>Integration
+Developed a robust data integration solution to facilitate the seamless transfer of sales order data from a CRM system to Oracle’s JD Edwards, despite lacking direct API access to the ERP. 
+
+-----------------------------------------------------------------
+
+RAG Web Application
+A sophisticated web application leveraging Retrieval-Augmented Generation (RAG) to enhance user exploration of technical documentation knowledge bases.
+
+-----------------------------------------------------------------
+
+Machine Learning Notebooks
+Tackled real-world problems in data science and machine learning through Kaggle competitions. Focused on tasks such as predicting obesity risk and classifying manufacturing defects. 
+
+-----------------------------------------------------------------
+
+SAP Sales Data Integration 
+A complex integration to streamline global sales data management for a company with SAP HANA instances in five countries.
+
+-----------------------------------------------------------------
+
+Snowflake Data Warehouse Integration
+Daily synchronization of account and opportunity data using the Snowflake SQL REST API.
+
+-----------------------------------------------------------------
+
+Sales Quote Builder with Real-Time ERP Data
+Custom quote builder with live product &amp; inventory data pulled from a custom integration with a QAD ERP database. 
+
+-----------------------------------------------------------------
+
+Contact Data Visualization
+Interactive contact tree displayed as an SVG and built using the D3.js data visualization library. 
+
+-----------------------------------------------------------------
+
+Project Data Visualization
+Dynamically generated chart using the Chart.js data visualization library with data aggregation on the backend. 
+
+-----------------------------------------------------------------

@@ -1,0 +1,24 @@
+Sales Quote Builder with Real-Time ERP Data
+A cutting-edge web application empowering sales teams in the manufacturing industry to efficiently create and manage sales quotes.
+
+Key Achievements:
+
+Intuitive User Interface: Developed a user-friendly interface enabling quick configuration of quote headers, seamless addition/editing of line items, and real-time inventory checks with pricing details.
+
+Efficient Data Integration: Integrated the application with an external Enterprise Resource Planning (ERP) system, facilitating seamless data retrieval for pricing, inventory levels, and related product recommendations.
+
+Enhanced Performance Optimization: Employed asynchronous loading techniques for quote headers, line items, and details, significantly improving the application's loading speed.
+
+Bulk Action Functionality: Implemented a custom feature allowing users to select multiple quote line items and perform actions like editing pricing or deleting items in bulk, boosting productivity.
+
+Real-Time Data Refreshing: Integrated platform events to enable asynchronous and automatic data refreshing upon specific triggers, ensuring up-to-date information availability.
+
+Year
+2023
+
+Technologies
+JavaScript
+Apex (Java-based server language)
+Web Components
+REST APIs
+Event-Driven Architecture

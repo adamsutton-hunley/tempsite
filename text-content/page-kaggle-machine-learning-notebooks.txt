@@ -1,0 +1,26 @@
+Kaggle Machine Learning Notebooks
+View Notebook: Steel Plate Defect Prediction
+
+View Notebook: Prediction of Obesity Risk
+
+Demonstrated proficiency in applying machine learning techniques to solve real-world problems through Kaggle competitions.
+
+Key Achievements:
+
+Classification Challenges: Successfully tackled multi-label classification tasks, such as identifying defects in steel plates and predicting health outcomes based on lifestyle factors.
+
+Algorithm Selection and Implementation: Effectively leveraged algorithms like XGBoost and logistic regression, demonstrating an understanding of their strengths and trade-offs.
+
+Data Preprocessing and Feature Engineering: Proactively addressed challenges like multi-label classification and categorical variables through techniques like one-hot encoding and strategic label handling.
+
+Year
+2024
+
+Technologies
+Python
+Pandas
+Scikit-learn
+XGBoost
+Logistic Regression
+Data Preprocessing
+Feature Engineering

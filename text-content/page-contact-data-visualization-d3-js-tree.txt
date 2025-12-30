@@ -1,0 +1,23 @@
+Contact Data Visualization with D3.js
+Developed a dynamic and visually engaging solution to display complex relationships within customer data, enhancing sales teams' understanding of their client base.
+
+Key Achievements:
+
+Advanced Data Visualization: Implemented D3.js to create a scalable and interactive tree graph visualization, offering intuitive insights into customer contact hierarchies.\
+
+Efficient Data Retrieval: Leveraged backend technologies to query and process customer relationship data, ensuring seamless integration with existing systems.
+
+Customizable Styling: Employed conditional styling to highlight key attributes of contacts, enhancing the visual representation and improving data comprehension.
+
+Intuitive User Experience: Integrated the visualization into a user-friendly web component, making it easily accessible within the client's CRM platform.
+
+Year
+2022
+
+Technologies
+JavaScript
+D3.js
+Data Visualization
+Web Components
+Backend Integration
+Conditional Styling

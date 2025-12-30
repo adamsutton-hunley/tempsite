@@ -1,0 +1,21 @@
+JD Edwards Enterprise Integration 
+Developed a robust data integration solution to facilitate the seamless transfer of sales order data from a CRM system to Oracle’s JD Edwards, despite lacking direct API access to the ERP. 
+
+Key Achievements:
+
+Established One-Way Data Flow: Implemented a reliable one-way integration pipeline from the CRM to the ERP system.
+
+Automated Data Export via SFTP: Configured automated export of data in a bespoke CSV format and transfer to a customer-hosted SFTP server.
+
+Ensured Compatibility with Legacy System: Designed the integration to meet the requirements of the ERP's existing data ingestion process.
+
+Implemented Error Handling and Logging: Built comprehensive error handling and logging mechanisms for monitoring and troubleshooting data transfers.
+
+Year
+2025
+
+Technologies
+MuleSoft Anypoint Platform
+DataWeave Transformation Language
+Enterprise Integration Patterns
+Custom Logging
