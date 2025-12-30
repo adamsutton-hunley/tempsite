@@ -1,0 +1,4 @@
+SpecSuccess Release Maker<br>Salesforce Package Automation
+PowerShell-driven workflow that versions, tags, and promotes Salesforce managed packages with guardrails around validation, ancestry, and GitHub release creation.<br>
+
+-----------------------------------------------------------------

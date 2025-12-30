@@ -1,0 +1,4 @@
+SpecSuccess Dashboard Lambda<br>CloudWatch Jobs Widget
+CloudWatch dashboard widget Lambda that aggregates client jobs, enrichment results, and DLQ items into a live HTML view with quick navigation links back to operational dashboards.<br>
+
+-----------------------------------------------------------------

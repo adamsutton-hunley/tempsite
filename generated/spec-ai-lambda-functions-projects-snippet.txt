@@ -1,0 +1,4 @@
+SpecSuccess AI Lambda Functions<br>Serverless Document Enrichment
+Event-driven Lambda suite that starts jobs, fetches project documents, and delivers AI enrichment results with resilient DLQ handling and layered logging utilities.<br>
+
+-----------------------------------------------------------------

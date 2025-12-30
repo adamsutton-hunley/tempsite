@@ -1,0 +1,24 @@
+SpecSuccess Dashboard Lambda
+CloudWatch Jobs Widget
+Built a custom CloudWatch dashboard widget Lambda that renders live HTML tables for client jobs, projects, enrichment results, and DLQ entries, giving stakeholders a single view into pipeline health.
+
+Key Achievements:
+
+Flexible filtering: Parsed optional client, job, and project parameters so operations teams can jump directly to the data slice they need from within the dashboard UI.
+
+Optimized DynamoDB reads: Added paginated scans and queries that aggregate counts per job and reuse cached dead-letter lookups to keep widget responses fast.
+
+Operator-friendly HTML output: Generated link-rich tables with bounded cell widths and quick navigation back to jobs and error dashboards to speed up triage.
+
+SAM-first delivery: Packaged the Lambda, IAM policies, dashboard widget definition, and environment variables in a single SAM template with sample events for local testing.
+
+Year
+2024
+
+Technologies
+AWS Lambda (Python)
+AWS CloudWatch Dashboards
+Amazon DynamoDB
+AWS SAM
+HTML generation with Python
+boto3

@@ -1,0 +1,25 @@
+SpecSuccess AI Lambda Functions
+Serverless Document Enrichment
+Architected the Lambda layer of an AI document enrichment system, covering job kickoff, document retrieval with headless browsing, resilient retries, and delivery of results to downstream systems.
+
+Key Achievements:
+
+Coordinated pipeline stages: Split responsibilities across specialized Lambdas (job start, fetch, send result, DLQ handler) to keep each stage simple and independently deployable.
+
+Reliable document capture: Packaged Chrome inside a Lambda container image to fetch construction project documents and push them to S3 before forwarding work to the next queue.
+
+Recovery-first operations: Implemented DLQ handling that retries eligible messages, archives failure context in DynamoDB, and alerts via SNS so operations can triage quickly.
+
+Shared tooling and deployment: Delivered a reusable logging/configuration layer plus SAM- and PowerShell-based scripts for consistent builds, tests, and deployments across all functions.
+
+Year
+2024
+
+Technologies
+AWS Lambda (Python 3.12)
+AWS SAM
+Amazon S3
+Amazon DynamoDB
+Amazon SQS and SNS
+Docker (Lambda container images)
+PowerShell Tooling

@@ -1,0 +1,23 @@
+SpecSuccess Release Maker
+Salesforce Package Automation
+Automated the creation and promotion of SpecSuccess managed package versions with a PowerShell-driven workflow that controls version ancestry, enforces validation, and tags successful builds in Git and GitHub.
+
+Key Achievements:
+
+End-to-end release orchestration: Encapsulated dev, release, promotion, and cleanup flows in one script so teams can ship from a single entry point.
+
+Versioning discipline: Automated semantic version bumps (major/minor/patch/build) to eliminate manual errors and keep release lineage consistent with Salesforce’s packaging rules.
+
+Guardrails and auditability: Added required validation for releases, optional validation bypass for dev builds, and generated documentation tied to each tagged version for traceability.
+
+Configurable for multiple products: Parameterized repo targets, package ids, install keys, and branches so teams can reuse the tool across multiple managed packages.
+
+Year
+2025
+
+Technologies
+PowerShell
+Salesforce CLI (sf)
+Git and GitHub CLI
+Semantic Versioning
+Windows Automation
